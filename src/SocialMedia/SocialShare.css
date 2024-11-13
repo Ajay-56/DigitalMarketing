@@ -1,0 +1,32 @@
+.social-share {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.social-share h4 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.social-share ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.social-share li {
+    display: inline;
+}
+
+.social-share a {
+    color: #0073e6;
+    text-decoration: none;
+    font-size: 1em;
+    transition: color 0.3s;
+}
+
+.social-share a:hover {
+    color: #005bb5;
+}

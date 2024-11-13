@@ -1,0 +1,58 @@
+.home-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.hero-section {
+    position: relative;
+    text-align: center;
+    padding: 50px;
+    background: #f4f4f4;
+}
+
+.hero-content {
+    padding: 15px;
+    margin-top: 80px; /* Adjust based on button height and padding */
+    background-color: black;
+}
+
+.cta-buttons {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.header-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1em;
+    text-decoration: none;
+    color: white;
+    background-color: #007BFF;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.header-button:hover {
+    background-color: #0056b3;
+}
+
+.features-section {
+    padding: 50px;
+    background: #fff;
+    text-align: center;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.feature {
+    max-width: 300px;
+}

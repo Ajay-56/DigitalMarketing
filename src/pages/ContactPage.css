@@ -1,0 +1,31 @@
+.contact-page {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.contact-header {
+    background-color: var(--primary-color-dark);
+    color: white;
+    padding: 50px 20px;
+}
+
+.contact-header h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.contact-header p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.contact-content {
+    padding: 40px 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-content h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}

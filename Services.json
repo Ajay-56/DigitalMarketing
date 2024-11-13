@@ -1,0 +1,47 @@
+{
+  "item": [
+    {
+      "id": "1",
+      "title": "SEO Optimization",
+      "description": "Improve your search engine rankings with our SEO services."
+    },
+    {
+      "id": "2",
+      "title": "Content Marketing",
+      "description": "Engage your audience with high-quality content."
+    },
+    {
+      "id": "3",
+      "title": "Social Media Management",
+      "description": "Boost your online presence through social media."
+    },
+    {
+      "id": "ebee",
+      "title": "PPC(Advertising)",
+      "description": "Pay-per-click marketing is an advertising channel where marketers generate ad impressions on a search engine, website, or social media platform."
+    }
+  ],
+  "ajay": [
+    {
+      "email": "ajay@gmail.com",
+      "password": "1234",
+      "id": "1"
+    },
+    {
+      "id": "40c5",
+      "email": "cmkelcm@cekjfjefgmail.com",
+      "password": "mckm"
+    },
+    {
+      "id": "a9ea",
+      "email": "ajsuhwu@gmail.com",
+      "password": "fel;fk"
+    },
+    {
+      "id": "1246",
+      "email": "abishek@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "services": []
+}

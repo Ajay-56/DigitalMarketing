@@ -1,0 +1,38 @@
+.Main {
+  display: flex;
+  justify-content: center; /* Center the box horizontally */
+  align-items: center;     /* Center the box vertically */
+  height: 100lvh;  
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 24%, rgba(252,70,107,1) 92%);         /* Full viewport height */
+}
+.box {
+  
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  justify-content: center; /* Horizontally center the button */
+  align-items: center;     /* Vertically center the button */
+  height: 500px;        /* Adjust the height as needed */
+  width:  400px;        /* Adjust the height as needed */
+  border: 1px solid #168d98;  /* Optional: for visual reference */
+  background-color: #f9f9f9; /* Optional: for visual reference */
+}
+/* src/components/LogoReplacement.css */
+
+/* src/App.css */
+.App-header {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.App-logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 50px; /* Adjust the size as needed */
+  height: auto;
+}
+
+
